@@ -55,6 +55,20 @@ tr{
     background-color: rgb(137, 255, 255);
 }
 
+#riga2{
+    
+}
+
 #riga3{
     background-color: rgb(137, 255, 255);
+}
+
+footer{
+    margin: auto;
+    width: 75%;
+}
+
+.last-image{
+    display: block;
+    width: 20%;
 }
