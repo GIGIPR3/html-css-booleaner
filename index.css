@@ -8,9 +8,30 @@ header{
 
 #logo{
     width: 10%;
-    padding-left: 15%;
+    padding-left: 12%;
 }
 
 body{
     margin: 0%;
+}
+
+main{
+    margin: auto;
+    width: 75%;
+}
+
+#autore{
+    color: dimgray;
+}
+
+#booleaner{
+    color: dodgerblue;
+}
+
+#data{
+    font-size: small;
+}
+
+#didascalia{
+    font-size: smaller;
 }
