@@ -36,9 +36,15 @@ main{
     font-size: smaller;
 }
 
+table{
+    width: 100%;
+    border-spacing: 0;
+    margin: auto;
+}
+
 thead{
     background-color: darkcyan;
-    
+    text-align: center;
 }
 
 th{
@@ -64,6 +70,7 @@ tr{
 }
 
 footer{
+    width: 75%;
     margin: auto;
     width: 75%;
 }
