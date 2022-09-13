@@ -44,26 +44,23 @@ table{
 
 thead{
     background-color: darkcyan;
-    text-align: center;
+    
 }
 
 th{
     font-size: small;
     color: white;
+    text-align: center;
 }
 
 tr{
     text-align: left;
-
 }
 
 #riga1{
     background-color: rgb(137, 255, 255);
 }
 
-#riga2{
-    
-}
 
 #riga3{
     background-color: rgb(137, 255, 255);
